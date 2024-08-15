@@ -6,8 +6,7 @@ class Solution {
         {
             count[s.charAt(i) - 'a']++;
         }
-        int max = 0;
-        int idx = 0;
+        int max = 0, idx = 0;
         for(int i = 0 ; i < count.length ; i++)
         {
             if(max < count[i])
