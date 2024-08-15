@@ -6,39 +6,39 @@ class Solution {
         {
             count[s.charAt(i) - 'a']++;
         }
-        int maxCount = 0;
-        int indexOfMax = 0;
+        int max = 0;
+        int idx = 0;
         for(int i = 0 ; i < count.length ; i++)
         {
-            if(maxCount < count[i])
+            if(max < count[i])
             {
-                maxCount = count[i];
-                indexOfMax = i;
+                max = count[i];
+                idx = i;
             }
         }
-        if(maxCount > (n+1)/2)
+        if(max > (n+1)/2)
         return "";
-        char[] ans = new char[n];
+        char[] result = new char[n];
         int index = 0;
-        while(count[indexOfMax] != 0)
+        while(count[idx] != 0)
         {
-            ans[index] = (char) (indexOfMax + 'a');
+            result[index] = (char) (idx + 'a');
             index = index + 2;
-            count[indexOfMax]--;
+            count[idx]--;
         }
         for(int i = 0 ; i < count.length ; i++)
         {
             while(count[i] != 0)
             {
-                if(index >= ans.length)
+                if(index >= result.length)
                 index = 1;
             
-            ans[index] = (char)(i + 'a');
+            result[index] = (char)(i + 'a');
             index = index + 2;
             count[i]--;
             }
         }
-        return String.valueOf(ans);
+        return String.valueOf(result);
 
     }
 }
