@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0605-can-place-flowers](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0605-can-place-flowers) |
 ## Two Pointers
 |  |
@@ -37,4 +38,8 @@
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/1146-greatest-common-divisor-of-strings) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
