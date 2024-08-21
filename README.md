@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0605-can-place-flowers](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0605-can-place-flowers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,4 +28,8 @@
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0394-decode-string) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
