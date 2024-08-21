@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0394-decode-string) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1970-sorting-the-sentence](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/1970-sorting-the-sentence) |
 ## Sorting
 |  |
@@ -32,4 +33,8 @@
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0605-can-place-flowers) |
+## Math
+|  |
+| ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/1146-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
