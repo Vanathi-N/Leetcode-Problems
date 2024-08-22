@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0204-count-primes](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0605-can-place-flowers](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0066-plus-one) |
+| [0204-count-primes](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0204-count-primes) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Binary Search
 |  |
@@ -59,4 +61,12 @@
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0476-number-complement) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
