@@ -14,6 +14,7 @@
 | [0204-count-primes](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0605-can-place-flowers](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [1580-shuffle-the-array](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/1580-shuffle-the-array) |
 ## Two Pointers
 |  |
 | ------- |
