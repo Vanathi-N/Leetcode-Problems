@@ -86,4 +86,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0002-add-two-numbers) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
