@@ -10,6 +10,7 @@
 | [0036-valid-sudoku](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0136-single-number](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0605-can-place-flowers](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0605-can-place-flowers) |
@@ -69,6 +70,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0136-single-number) |
 | [0476-number-complement](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0476-number-complement) |
 ## Enumeration
 |  |
