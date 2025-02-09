@@ -26,6 +26,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0394-decode-string](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0394-decode-string) |
+| [0459-repeated-substring-pattern](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0459-repeated-substring-pattern) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1970-sorting-the-sentence](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/1970-sorting-the-sentence) |
 ## Sorting
@@ -113,4 +114,5 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
