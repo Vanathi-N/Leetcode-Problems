@@ -13,6 +13,7 @@
 | [0136-single-number](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0605-can-place-flowers](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1580-shuffle-the-array](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/1580-shuffle-the-array) |
@@ -32,6 +33,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0268-missing-number) |
 | [1970-sorting-the-sentence](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/1970-sorting-the-sentence) |
 ## Stack
 |  |
@@ -54,6 +56,7 @@
 | [0050-powx-n](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2556-convert-the-temperature](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/2556-convert-the-temperature) |
 ## Binary Search
@@ -62,6 +65,7 @@
 | [0035-search-insert-position](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -75,6 +79,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0476-number-complement) |
 ## Enumeration
 |  |
@@ -88,6 +93,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0036-valid-sudoku) |
+| [0268-missing-number](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
