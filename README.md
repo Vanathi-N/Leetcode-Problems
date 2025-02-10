@@ -59,6 +59,7 @@
 | [0002-add-two-numbers](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0268-missing-number) |
