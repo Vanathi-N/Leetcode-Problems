@@ -14,6 +14,7 @@
 | [0162-find-peak-element](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0605-can-place-flowers](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1580-shuffle-the-array](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/1580-shuffle-the-array) |
@@ -22,6 +23,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
 | ------- |
@@ -66,6 +68,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -80,6 +83,7 @@
 | ------- |
 | [0136-single-number](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0476-number-complement) |
 ## Enumeration
 |  |
