@@ -17,6 +17,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0605-can-place-flowers](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [1580-shuffle-the-array](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/1580-shuffle-the-array) |
 ## Two Pointers
 |  |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [1970-sorting-the-sentence](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/1970-sorting-the-sentence) |
 ## Stack
 |  |
@@ -85,6 +87,7 @@
 | [0268-missing-number](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0476-number-complement) |
+| [0645-set-mismatch](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0645-set-mismatch) |
 ## Enumeration
 |  |
 | ------- |
@@ -98,6 +101,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0036-valid-sudoku) |
 | [0268-missing-number](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/Vanathi-N/Leetcode-Problems/tree/master/0645-set-mismatch) |
 ## Linked List
 |  |
 | ------- |
